@@ -1,0 +1,27 @@
+/* CSS VARIABLES */
+
+:root{
+    --paragraphs-color: #909090;
+    --title-color: #333;
+}
+
+/* RESET'S */
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* GENERAL STYLES */
+
+body{
+    background-color: #e5e5e5;
+    color: var(--title-color);
+    font-family: 'Ubuntu', 'Arial', Helvetica, sans-serif;
+}
+
+p{
+    color: var(--paragraphs-color);
+    font-family: 'Open Sans', 'Arial', Helvetica, sans-serif;
+}
