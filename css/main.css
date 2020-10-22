@@ -87,3 +87,9 @@ p{
     border-bottom: 2px solid var(--muted-color);
     margin: 50px 3em 100px;
 }
+
+/* ARTICLE SECTIONS */ 
+
+article section{
+    margin-bottom: 6.25em;  
+}
