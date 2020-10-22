@@ -8,7 +8,8 @@
     #intro img,
     .text-messages img,
     .group-conversation img,
-    .photo-videos img{
+    .photo-videos img,
+    .hide-img{
         display: none;
     }
     
