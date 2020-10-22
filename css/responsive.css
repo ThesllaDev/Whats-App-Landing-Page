@@ -1,0 +1,32 @@
+@media only screen and (max-width: 991px){
+    
+    /* HIDE LOGO AND IMAGE */
+    .navbar-brand{
+        display: none;
+    }
+
+    #intro img{
+        display: none;
+    }
+    
+}
+
+    /* USER INTERACTION EVENTS */
+@media only screen and (min-width: 991px){
+    .download-button:hover{
+        color: #fff;
+        border: 3px solid #23B75A;
+    }
+
+    .learn-more-button:hover{
+        color: var(--main-color);
+        border: 3px solid #23B75A;
+    }
+}
+
+    /*  RESPONSIVENESS ADJUSTMENT */
+@media only screen and (max-width: 471px){
+    .buttons a{
+        display: block;
+    }
+}
