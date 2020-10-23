@@ -3,7 +3,7 @@
 :root{
     --main-color: #25D366;
     --muted-color: #909090;
-    --title-color: #333;
+    --black-color: #333;
 }
 
 /* RESET'S */
@@ -14,9 +14,13 @@ ul{
 
 /* GENERAL STYLES */
 
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     background-color: #e5e5e5;
-    color: var(--title-color);
+    color: var(--black-color);
     font-family: 'Ubuntu', 'Arial', Helvetica, sans-serif;
     max-width: 1440px;
     line-height: 1.5;
@@ -56,11 +60,11 @@ p{
 
 /* INTRODUCTION SECTION */
 
-#intro{
+.intro{
     min-height: 60vh;
 }
 
-#intro h2{
+.intro h2{
     margin-top: 100px;
 }
 
@@ -101,7 +105,7 @@ article section{
 
 /* DOWNLOAD SECTION */
 
-#download h2{
+.download-section h2{
     font-weight: 500;
     margin: 50px 0 20px;
 }
@@ -110,8 +114,8 @@ article section{
     margin: 20px 0;
 }
 
-#download p{
-    color: var(--title-color);
+.download-section p{
+    color: var(--black-color);
 }
 
 blockquote p{
@@ -133,7 +137,7 @@ figure img{
 }
 
 figure p{
-    color: var(--title-color);
+    color: var(--black-color);
     font-size: 1.5rem;
     font-weight: bold;
     margin: 15px auto;
@@ -145,16 +149,16 @@ figcaption{
 
 /* QUESTION SECTIONS */
 
-#faq h2{
+.faq-section h2{
     color: var(--main-color);
 }
 
-#faq li{
+.faq-section li{
     font-size: 1.125em;
 }
 
 .cards a{
-    color: var(--title-color);
+    color: var(--black-color);
     font-size: 1.125em;
     text-decoration: underline;
 }
