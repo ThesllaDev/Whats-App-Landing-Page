@@ -120,7 +120,7 @@ blockquote p{
 
 /* SECURITY SECTION */
 
-figure{
+.cards{
     background-color: #fff;
     border-radius: 20px;
     max-height: 100%;
@@ -141,4 +141,20 @@ figure p{
 
 figcaption{
     color: var(--muted-color);
+}
+
+/* QUESTION SECTIONS */
+
+#faq h2{
+    color: var(--main-color);
+}
+
+#faq li{
+    font-size: 1.125em;
+}
+
+.cards a{
+    color: var(--title-color);
+    font-size: 1.125em;
+    text-decoration: underline;
 }
