@@ -3,7 +3,7 @@
 >  Site desenvolvido para estudos e práticas de HTML, CSS, JS, jQuery e Bootstrap
 
 ![](./img/website-desktop.gif)
-![](./img/website-phone.gif) ![](./img/website-board.gif)
+![](./img/website-phone.gif)
 
 [Acesse o site clicando aqui](https://theslladev.github.io/Whats-App-Web-Landing-Page/)
 
