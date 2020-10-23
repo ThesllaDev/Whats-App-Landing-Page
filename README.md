@@ -1,5 +1,4 @@
-## Recriando a interface da Netflix
-
+## Criando uma landing page do WhatsApp
 >  Site desenvolvido para estudos e práticas de HTML, CSS, JS, jQuery e Bootstrap
 
 ![](./img/website-desktop.gif)
