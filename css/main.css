@@ -117,3 +117,28 @@ article section{
 blockquote p{
     margin-top: 50px;
 }
+
+/* SECURITY SECTION */
+
+figure{
+    background-color: #fff;
+    border-radius: 20px;
+    max-height: 100%;
+    margin: 25px auto 50px;
+    padding: 50px;
+}
+
+figure img{
+    width: 122px;
+}
+
+figure p{
+    color: var(--title-color);
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 15px auto;
+}
+
+figcaption{
+    color: var(--muted-color);
+}
