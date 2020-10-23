@@ -158,3 +158,22 @@ figcaption{
     font-size: 1.125em;
     text-decoration: underline;
 }
+
+/* SITE FOOTER */
+
+footer{
+    background-color: var(--main-color);
+    padding-top: 90px;
+}
+
+footer h3,
+footer a,
+footer p{
+    color: #fff;
+}
+
+footer p{
+    background-color: #23B75A;
+    width: 100%;
+    padding: 15px;
+}

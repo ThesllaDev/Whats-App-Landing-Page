@@ -26,6 +26,14 @@
         color: var(--main-color);
         border: 3px solid #23B75A;
     }
+
+    .cards a:hover{
+        color: var(--muted-color);
+    }
+
+    footer a:hover{
+        color: var(--title-color);
+    }
 }
 
     /*  RESPONSIVENESS ADJUSTMENT */
