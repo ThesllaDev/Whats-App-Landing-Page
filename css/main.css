@@ -171,13 +171,17 @@ footer{
 }
 
 footer h3,
-footer a,
-footer p{
+footer a{
     color: #fff;
 }
 
-footer p{
+.credits{
+    color: #fff;
     background-color: #23B75A;
-    width: 100%;
     padding: 15px;
+    width: 100%;
+}
+
+.credits a{
+    color: var(--black-color);
 }
