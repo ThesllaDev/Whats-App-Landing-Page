@@ -3,7 +3,7 @@
 
 ![](./img/website-desktop.gif)
 
-[Acesse o site clicando aqui](https://theslladev.github.io/Whats-App-Landing-Page/)
+[Acesse o site clicando aqui](https://theslladev.github.io/Whats-App-Landing-Page/) 
 [Desginer no figma](https://t.co/m4dxOrS9IT?amp=1)
 
 ![](https://img.shields.io/badge/tool-HTML-red) ![](https://img.shields.io/badge/tool-CSS-blueviolet) ![](https://img.shields.io/badge/tool-JS-yellow) ![](https://img.shields.io/badge/tool-Bootstrap-blueviolet) ![](https://img.shields.io/badge/tool-jQuery-yellow)
