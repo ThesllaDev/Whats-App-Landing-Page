@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠 Tecnologias e conhecimentos utilizadas:
+### 🛠 Tecnologias e conhecimentos utilizados:
 
 * [HTML5](https://www.w3schools.com/html/default.asp)
 * [CSS3](https://www.w3schools.com/css/default.asp)
@@ -38,6 +38,8 @@
 Feito com ❤️ por Thalles Augusto 👋🏽 Entre em contato! <br/>
  [![Linkedin Badge](https://img.shields.io/badge/-Thalles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalles-augusto/)](https://www.linkedin.com/in/tgmarinho/) 
 [![Gmail Badge](https://img.shields.io/badge/-ThesllaDev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ThesllaDev@gmail.com)](mailto:ThesllaDev@gmail.com)
+
+---
 
 ### 📝 Licença
 
